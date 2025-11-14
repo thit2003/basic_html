@@ -1,0 +1,33 @@
+body { 
+
+  margin: 0; 
+
+  font-family: sans-serif, Helvetica, sans-serif; 
+
+  background-color: #1ee49c; 
+
+  color: #333; 
+
+} 
+
+header { 
+
+  background-color: red; 
+
+  color: white; 
+
+  text-align: center; 
+
+  padding: 20px; 
+
+} 
+
+section {
+    background-color: #005f99; 
+
+  color: white; 
+
+  font-size: 1.25em; 
+
+  padding: 20px; 
+}
